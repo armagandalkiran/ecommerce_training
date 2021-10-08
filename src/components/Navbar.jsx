@@ -69,7 +69,7 @@ const Navbar = () => {
                     </SearchContainer>
                 </Left>
                 <Center>
-                    <Logo>THE ARMAGAN</Logo>
+                    <Logo>YORUSHOP</Logo>
                 </Center>
                 <Right>
                     <MenuItem>REGISTER</MenuItem>
